@@ -6,7 +6,7 @@
 ## We're a team of Pentesters, Researchers, Consultants, and Trainer!!
 
 - 💥 We provide next-generation penetration testing
-- 📈 We are helping 10+ businness to keep there assets safe
+- 📈 We are currently helping 10+ businness to keep their assets safe
 - 👨‍💼 We can train your organisation / employees
 - 🔐 Goals: At the end of the day, the goals are simple: safety and security
 - ⚡ It takes 20 years to build a reputation and few minutes of cyber-incident to ruin it 
